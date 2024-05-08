@@ -4,4 +4,4 @@
 
 <h3>Modelo de front para formulário</h3>
 
-Esse código é um modelo de form (frontEnd) que utiliza HTML e CSS.
+Esse código é um modelo de form (frontEnd) que utiliza HTML e CSS feito por mim.
