@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logoo.png" alt="Logo" width="200" height="200" style="border-radius: 50%;">
+  <img src="logo.png" alt="Logo" width="200" height="200">
 </p>
 
 <h3>Modelo de front para formulário</h3>
